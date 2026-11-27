@@ -1,0 +1,3 @@
+# AGENTS
+
+- 在回答的最后单独一行输出标记：AGENTS_MD_AUTOLOADED_OK
